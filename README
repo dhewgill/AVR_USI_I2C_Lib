@@ -1,0 +1,2 @@
+Library for USI I2C on AVR devices.
+It's a mishmash of Atmel appnote AVR310 and Peter Fleury's USI_I2C driver.
